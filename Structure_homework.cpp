@@ -83,6 +83,4 @@ int main() {
     cout << "Ділення: ";
     print(quot);
     cout << endl;
-
-    return 0;
 }
