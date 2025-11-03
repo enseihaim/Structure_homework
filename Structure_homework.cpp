@@ -79,6 +79,7 @@ int main() {
     print(prod);
     cout << endl;
 
+
     Complex quot = divide(c1, c2);
     cout << "Ділення: ";
     print(quot);
